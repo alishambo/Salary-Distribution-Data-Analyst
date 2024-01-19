@@ -1,0 +1,1 @@
+The purpose of this project was to gain familiarity with data science related methods and techniques. This was only the tip of the iceberg but has brought me great enthusiasm towards the data related field itself!
